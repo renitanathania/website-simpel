@@ -20,7 +20,7 @@ body {
     font-size: 50px;
     font-weight: bold;
     float: left;
-    font-family: Courier;
+    font-family: courier;
     color: rgb(6, 28, 49);
 }
 
@@ -37,6 +37,8 @@ nav {
     position: -webkit-sticky;
     top: 0;
     background: #F5EEDC ;
+    z-index: 1;
+    border-bottom: 1px solid rgb(6, 28, 49);
 }
 
 nav ul {
