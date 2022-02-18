@@ -20,8 +20,10 @@ body {
     font-size: 50px;
     font-weight: bold;
     float: left;
-    font-family: courier;
+    font-family:'comic sans ms'  ;
     color: rgb(6, 28, 49);
+    text-align: left;
+    font-size: larger;
 }
 
 .menu {
@@ -135,4 +137,14 @@ p {
     align-self: center;
     justify-content: center;
     text-align: center;
+}
+
+.cerita {
+    margin-top: 30px;
+    margin-left: 20px;
+    align-content: space-around;
+}
+
+.contact {
+    color: black;
 }
