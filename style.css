@@ -125,3 +125,14 @@ p {
     margin: 10px 10px 10px 10px;
     padding: 10px 10px 10px 10px;
 }
+
+.foto {
+    height: 350px;
+     width: 580px;
+}
+
+.footer {
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+}
