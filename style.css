@@ -143,3 +143,9 @@ p {
     display: inline-flex;
     justify-content: center;
 }
+
+.footer {
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+}
