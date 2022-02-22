@@ -133,18 +133,13 @@ p {
      width: 580px;
 }
 
-.footer {
-    align-self: center;
-    justify-content: center;
-    text-align: center;
-}
-
 .cerita {
     margin-top: 30px;
     margin-left: 20px;
     align-content: space-around;
 }
 
-.contact {
-    color: black;
+.kontak {
+    display: inline-flex;
+    justify-content: center;
 }
