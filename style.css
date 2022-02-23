@@ -38,7 +38,7 @@ nav {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    background: #F5EEDC ;
+    background: #E9C891 ;
     z-index: 1;
     border-bottom: 1px solid rgb(6, 28, 49);
 }
@@ -85,13 +85,14 @@ section {
 }
 
 h2 {
-    font-family: 'comic sans ms';
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 800;
     font-size: 45px;
-    margin-bottom: 20px;
+    margin-top: 20px;
     color: rgb(6, 28, 49);
     width: 100%;
     line-height: 50px;
+    padding: 20px
 }
 
 a.tbl-biru {
@@ -129,8 +130,9 @@ p {
 }
 
 .foto {
-    height: 350px;
-     width: 580px;
+    height: 400px;
+    width: 650px;
+    justify-content: left;
 }
 
 .cerita {
@@ -142,10 +144,22 @@ p {
 .kontak {
     display: inline-flex;
     justify-content: center;
+    
 }
 
 .footer {
     align-self: center;
     justify-content: center;
     text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #E9C891;
+}
+
+#contact {
+    justify-content: center;
+}
+
+content-contact {
+    justify-content: left;
 }
